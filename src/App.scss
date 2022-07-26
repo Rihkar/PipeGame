@@ -1,0 +1,24 @@
+.pipes-x-line {
+  display: flex;
+  flex-direction: row;
+  line-height: 15px;
+}
+
+.lvl-buttons {
+  display: flex;
+  width: fit-content;
+  margin: 0 auto;
+  gap: 10px;
+}
+
+.all-pipes {
+  padding: 30px;
+}
+
+.pipe-game {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin: 0 auto;
+
+}
